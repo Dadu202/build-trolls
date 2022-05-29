@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xB12Af30cD5246D6DA4DC168b49336df3fEFFa2Ef",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb12af30cd5246d6da4dc168b49336df3feffa2ef",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Trolls Topia",
+  "SYMBOL": "Trolls",
+  "MAX_SUPPLY": 3333,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 3,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Twitter": "https://https://twitter.com/trollstopianft",
+  "SHOW_BACKGROUND": false
+}
